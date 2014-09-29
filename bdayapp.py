@@ -1,5 +1,5 @@
 ## R Jagadeesh, IIT Kanpur
-## This is my version of the most common facebook reply app which help
+## This is my version of the most common facebook reply app which help us thank our friends who wished us during our special moments
 
 import requests
 import json
